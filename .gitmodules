@@ -1,0 +1,3 @@
+[submodule "libdragon-extensions"]
+	path = libdragon-extensions
+	url = git@github.com:pepsiman3/libdragon-extensions.git
